@@ -3,7 +3,7 @@
         "img" : "./assets/images/Turemeric.png",
         "avatar" : "./assets/images/Chef.png",
         "hasLeft" : false,
-        "hasRight" : true,
+        "hasRight" : false,
         "review" : null,
         "info" : {
             "name" : "Lemon Pasta",
