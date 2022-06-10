@@ -1,0 +1,55 @@
+[
+    {
+        "img" : "./assets/images/Pizza.png",
+        "avatar" : "./assets/images/Chef.png",
+        "hasLeft" : false,
+        "hasRight" : true,
+        "review" : {
+            "value" : 4.67,
+            "count": 6,
+            "name" : "Angelica"
+            },
+            "info" : null
+        
+    },
+    {
+        "img" : "./assets/images/Pasta.png",
+        "avatar" : "./assets/images/Chef2.png",
+        "hasLeft" : false,
+        "hasRight" : false,
+        "review" : {
+            "value" : 4.98,
+            "count": 14,
+            "name" : "Gianni"
+            },
+        "info" : null
+        
+    },
+    {
+        "img" : "./assets/images/PIne.png",
+        "avatar" : "./assets/images/Chef3.png",
+        "hasLeft" : false,
+        "hasRight" : false,
+        "review" : {
+            "value" : 4.67,
+            "count": 124,
+            "name" : "Melissa"
+            },
+            "info" : null
+        
+    },
+    {
+        "img" : "./assets/images/Matcha.png",
+        "avatar" : "./assets/images/Chef4.png",
+        "hasLeft" : false,
+        "hasRight" : false,
+        "review" : {
+            "value" : 4.89,
+            "count": 64,
+            "name" : "Dianna"
+            },
+            "info" : null
+         
+    }
+
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "img" : "./assets/images/Turemeric.png",
+        "avatar" : "./assets/images/Chef.png",
+        "hasLeft" : false,
+        "hasRight" : true,
+        "review" : null,
+        "info" : {
+            "name" : "Lemon Pasta",
+            "price" : 13
+        }
+        
+    },
+    {
+        "img" : "./assets/images/Blueberry.png",
+        "avatar" : "./assets/images/Chef2.png",
+        "hasLeft" : false,
+        "hasRight" : false,
+        "review" :null,
+        "info" : {
+            "name" : "Harvest Bowl",
+            "price" : 6.99
+        }
+    },
+    {
+        "img" : "./assets/images/Chia.png",
+        "avatar" : "./assets/images/Chef3.png",
+        "hasLeft" : true,
+        "hasRight" : true,
+        "review" : null,
+        "info" : {
+            "name" : "Acai Bowl",
+            "price" : 13
+        }
+    },
+    {
+        "img" : "./assets/images/Pretzel.png",
+        "avatar" : "./assets/images/Chef4.png",
+        "hasLeft" : false,
+        "hasRight" : false,
+        "review" : null,
+        "info" : {
+            "name" : "Garlic Pretzel",
+            "price" : 8.99
+        }
+         
+    }
+
+]
