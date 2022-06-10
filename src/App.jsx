@@ -5,7 +5,7 @@ import dishes2 from './mock/dishes.json'
 
 function App() {
   return <>
-      <div className='lg:container lg:mx-auto h-screen flex flex-col  pt-20 px-20'>
+      <div className='lg:container lg:mx-auto h-screen flex flex-col  py-10 px-20'>
 
           <div className='w-[170px]  h-[40px] rounded-full bg-[#F5F5F5] flex items-center justify-between px-4 mb-6'>
           <svg className='stroke-slate-400 w-5 h-5' xmlns="http://www.w3.org/2000/svg"  fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
